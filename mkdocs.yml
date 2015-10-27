@@ -9,6 +9,8 @@ pages:
     - async: async/index.md
     - check: check/index.md
     - fs: fs/index.md
+    - fs event: fs_event/index.md
+    - fs poll: fs_poll/index.md
     - idle: idle/index.md
     - pipe: pipe/index.md
     - poll: poll/index.md

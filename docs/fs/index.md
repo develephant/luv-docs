@@ -1,7 +1,3 @@
-## new_fs_event
-
-## new_fs_poll
-
 ## fs_access
 
 ## fs_chmod
@@ -9,12 +5,6 @@
 ## fs_chown
 
 ## fs_close
-
-## fs_event_getpath
-
-## fs_event_start
-
-## fs_event_stop
 
 ## fs_fchmod
 
@@ -39,12 +29,6 @@
 ## fs_mkdtemp
 
 ## fs_open
-
-## fs_poll_getpath
-
-## fs_poll_start
-
-## fs_poll_stop
 
 ## fs_read
 
