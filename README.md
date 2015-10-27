@@ -9,3 +9,29 @@ Latest generated docs can be found at: [http://luv.readthedocs.org/](http://luv.
 __Please feel free to contribute to missing spots, or incorrect assumptions and/or information.__
 
 To contribute, just clone the repo, edit, and request a pull.
+
+## Development
+
+[MkDocs](http://www.mkdocs.org/user-guide/writing-your-docs/) is the formatting engine/theme.
+
+!!! danger ""
+    Not all options from MkDocs work on the readthedocs.org site. Extensions do work however.
+
+### Extensions
+
+You can use the following extensions with MkDocs:
+
+codehilite - Hilite your code with three back-ticks and language id, as shown:
+
+<pre>
+```lua
+--Some code
+```
+</pre>
+
+callouts (admonition) - Create call-out boxes.
+
+<pre>
+!!! note "A Note"
+    Here is some informative text.
+</pre>
