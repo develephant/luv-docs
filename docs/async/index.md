@@ -1,4 +1,4 @@
-!!! note ""
+!!! note "Usage"
     Async handles allow the user to “wakeup” the event loop and get a callback called from another thread.
 
 ## new_async
