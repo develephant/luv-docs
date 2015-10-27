@@ -4,4 +4,4 @@ _This is an unofficial collection of documentation for the [Luv project](https:/
 
 !!! note "Contribute!"
     __Please feel free to contribute to missing spots, incorrect assumptions and/or information.__
-    To contribute, just clone the repo, edit, and request a pull.
+    To contribute, just [clone the repo](https://github.com/develephant/luv-docs), edit, and request a pull.
