@@ -11,17 +11,24 @@ pages:
     - fs: fs/index.md
     - fs event: fs_event/index.md
     - fs poll: fs_poll/index.md
+    - handles: handles/index.md
     - idle: idle/index.md
+    - loops: loops/index.md
+    - misc: misc/index.md
     - pipe: pipe/index.md
     - poll: poll/index.md
     - prepare: prepare/index.md
+    - process: process/index.md
+    - requests: requests/index.md
     - signal: signal/index.md
     - socket poll: socket_poll/index.md
+    - streams: streams/index.md
     - tcp: tcp/index.md
     - thread: thread/index.md
     - timer: timer/index.md
     - tty: tty/index.md
     - udp: udp/index.md
+    - versions: versions/index.md
     - work: work/index.md
 markdown_extensions:
   - admonition
