@@ -42,3 +42,14 @@ callouts (admonition) - Create call-out boxes. Each one uses a different color t
 !!! danger "Don't Do It!"
     If you do this, your computer will explode.
 </pre>
+
+### Parameters
+
+Use tables for laying out any parameters:
+
+<pre>
+Param|Details
+-----|-------
+param1|Some info about param 1
+param2|Some other info param 2
+</pre>
