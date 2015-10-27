@@ -46,6 +46,6 @@ uv.async_send( async_handle )
 
 ### See also
 
-The following API functionality also applies:
+The following API functionality applies to all __handles__:
 
 [handles](../handles)

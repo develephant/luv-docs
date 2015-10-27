@@ -22,7 +22,6 @@ pages:
     - process: process/index.md
     - requests: requests/index.md
     - signal: signal/index.md
-    - socket poll: socket_poll/index.md
     - streams: streams/index.md
     - tcp: tcp/index.md
     - thread: thread/index.md

@@ -86,3 +86,9 @@ local path = uv.fs_event_getpath( fs_event_handle )
 ```
 
 ---
+
+### See also
+
+The following API functionality applies to all __handles__:
+
+[handles](../handles)

@@ -199,6 +199,6 @@ local handle_type = uv.pipe_pending_type( pipe_handle )
 
 ### See also
 
-The following API functionality also applies:
+The following API functionality applies to all __streams__:
 
 [streams](../streams)
