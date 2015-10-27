@@ -2,6 +2,10 @@ site_name: Luv documentation
 site_url: http://luv.readthedocs.org
 pages:
   - What is Luv?: index.md
+  - Installation: install.md
+  - Usage: usage.md
+  - API
+    - fs: uv_fs.md
 markdown_extensions:
   - admonition
   - fenced_code
