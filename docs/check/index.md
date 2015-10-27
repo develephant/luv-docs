@@ -1,4 +1,4 @@
-!!! note "Usage"
+!!! note "Purpose"
     Check handles will run the given callback once per loop iteration, right after polling for i/o.
 
 ## new_check

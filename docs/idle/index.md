@@ -1,3 +1,6 @@
+!!! note "Purpose"
+    Idle handles will run the given callback once per loop iteration, right before the __[prepare](../prepare)__ handles.
+
 ## new_idle
 
 ```lua

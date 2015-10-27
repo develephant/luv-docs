@@ -1,4 +1,4 @@
-!!! note "Usage"
+!!! note "Purpose"
     Prepare handles will run the given callback once per loop iteration, right before polling for i/o.
 
 ## new_prepare
