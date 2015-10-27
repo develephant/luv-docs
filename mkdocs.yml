@@ -1,0 +1,12 @@
+site_name: Luv documentation
+site_url: http://luvdocs.readthedocs.org
+pages:
+  - What is Luv?: index.md
+markdown_extensions:
+  - admonition
+  - fenced_code
+  - codehilite:
+      noclasses: True
+      pygments_style: colorful
+  - toc:
+      permalink: True
