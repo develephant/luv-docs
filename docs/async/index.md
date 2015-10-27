@@ -14,12 +14,16 @@ callback|A callback function.
 
 __Examples__
 
-none
+```lua
+local async_handle = uv.new_async(function()
+  -- Doing some work...
+end )
+```
 
 ## async_send
 
 ```lua
-uv.async_send(async_ref)
+uv.async_send( async_handle )
 ```
 
 Wakeup the event loop and call the async handle’s callback.
@@ -28,11 +32,13 @@ __Parameters__
 
 Name|Details
 ----|-------
-async_ref|Reference to an async handle.
+async_handle|Reference to an async handle.
 
 __Examples__
 
-none
+```lua
+uv.async_send( async_handle )
+```
 
 ### See also
 
