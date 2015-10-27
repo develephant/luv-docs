@@ -5,7 +5,7 @@ pages:
   - Installation: install.md
   - Usage: usage.md
   - Luv API:
-    - fs: uv_fs.md
+    - fs: fs/uv_fs.md
 markdown_extensions:
   - admonition
   - fenced_code
