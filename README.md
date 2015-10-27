@@ -28,7 +28,7 @@ codehilite - Hilite your code with three back-ticks and language id, as shown:
 ```
 </pre>
 
-callouts (admonition) - Create call-out boxes. Each one uses a different color.
+callouts (admonition) - Create call-out boxes. Each one uses a different color to convey meaning.
 
 <pre>
 !!! note "A Note"
@@ -37,7 +37,7 @@ callouts (admonition) - Create call-out boxes. Each one uses a different color.
 !!! warning ""
     This is a block, without a title, which supresses rendering the header.
 
-    You can have multi-line, on the same indetation level.
+    You can have multi-line text, on the same indentation level.
 
 !!! danger "Don't Do It!"
     If you do this, your computer will explode.
