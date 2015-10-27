@@ -1,5 +1,6 @@
 site_name: Luv documentation
 site_url: http://luv.readthedocs.org
+repo_url: https://github.com/develephant/luv-docs
 pages:
   - What is Luv?: index.md
   - Installation: install.md
