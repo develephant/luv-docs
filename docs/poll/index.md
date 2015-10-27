@@ -1,3 +1,6 @@
+!!! note "Purpose"
+    The purpose of poll handles is to enable integrating external libraries that rely on the event loop to signal it about the socket status changes, like c-ares or libssh2. ___Using poll for any other purpose is not recommended.___
+
 ## new_poll
 
 ```lua

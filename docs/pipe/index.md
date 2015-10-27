@@ -1,3 +1,6 @@
+!!! note "Purpose"
+    Pipe handles provide an abstraction over local domain sockets on Unix and named pipes on Windows.
+
 ## new_pipe
 
 ```lua
@@ -199,6 +202,7 @@ local handle_type = uv.pipe_pending_type( pipe_handle )
 
 ### See also
 
-The following API functionality applies to all __streams__:
+The following API functionality applies to all __handles__ and __streams__:
 
+[handles](../handles)
 [streams](../streams)

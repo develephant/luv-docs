@@ -1,3 +1,6 @@
+!!! note "Purpose"
+    FS Poll handles allow the user to monitor a given path for changes. Unlike [fs event](../fs_event), fs poll handles use stat to detect when a file has changed so they can work on file systems where fs event handles can’t.
+
 ## new_fs_poll
 
 ```lua

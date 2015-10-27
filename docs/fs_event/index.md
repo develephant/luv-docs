@@ -1,3 +1,6 @@
+!!! note "Purpose"
+    FS Event handles allow the user to monitor a given path for changes, for example, if the file was renamed or there was a generic change in it. This handle uses the best backend for the job on each platform.
+
 ## new_fs_event
 
 ```lua

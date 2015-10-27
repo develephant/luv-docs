@@ -37,7 +37,7 @@ __Examples__
 
 ```lua
 uv.check_start( check_handle, function()
-  print( 'checking...')
+  print( 'checking...' )
 end )
 ```
 
