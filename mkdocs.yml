@@ -1,5 +1,5 @@
 site_name: Luv documentation
-site_url: http://luvdocs.readthedocs.org
+site_url: http://luv.readthedocs.org
 pages:
   - What is Luv?: index.md
 markdown_extensions:
