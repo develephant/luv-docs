@@ -1,7 +1,7 @@
 ## new_async
 
 ```lua
-uv.new_async( cb )
+uv.new_async( callback )
 ```
 
 Initialize the handle. A NULL callback is allowed.
