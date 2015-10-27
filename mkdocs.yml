@@ -4,7 +4,7 @@ pages:
   - What is Luv?: index.md
   - Installation: install.md
   - Usage: usage.md
-  - API
+  - Luv API:
     - fs: uv_fs.md
 markdown_extensions:
   - admonition
