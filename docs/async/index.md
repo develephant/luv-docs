@@ -14,6 +14,7 @@ callback|A callback function.
 
 __Examples__
 
+none
 
 ## async_send
 
@@ -27,10 +28,12 @@ __Parameters__
 
 Name|Details
 ----|-------
-async_ref|Reference to an async instance.
+async_ref|Reference to an async handle.
 
 __Examples__
 
+none
+
 ## See also
 
-[handles](handles/index.md)
+[handles](handles)
