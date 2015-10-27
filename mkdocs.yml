@@ -6,7 +6,21 @@ pages:
   - Installation: install.md
   - Usage: usage.md
   - Luv API:
-    - fs: fs/uv_fs.md
+    - async: async/index.md
+    - check: check/index.md
+    - fs: fs/index.md
+    - idle: idle/index.md
+    - pipe: pipe/index.md
+    - poll: poll/index.md
+    - prepare: prepare/index.md
+    - signal: signal/index.md
+    - socket poll: socket_poll/index.md
+    - tcp: tcp/index.md
+    - thread: thread/index.md
+    - timer: timer/index.md
+    - tty: tty/index.md
+    - udp: udp/index.md
+    - work: work/index.md
 markdown_extensions:
   - admonition
   - fenced_code
