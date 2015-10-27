@@ -8,6 +8,7 @@ pages:
   - Luv API:
     - async: async/index.md
     - check: check/index.md
+    - constants: constants/index.md
     - fs: fs/index.md
     - fs event: fs_event/index.md
     - fs poll: fs_poll/index.md
