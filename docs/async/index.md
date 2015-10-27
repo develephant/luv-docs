@@ -20,6 +20,8 @@ local async_handle = uv.new_async(function()
 end )
 ```
 
+---
+
 ## async_send
 
 ```lua
@@ -39,6 +41,8 @@ __Examples__
 ```lua
 uv.async_send( async_handle )
 ```
+
+---
 
 ### See also
 

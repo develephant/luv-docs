@@ -16,6 +16,8 @@ __Examples__
 
 none
 
+---
+
 ## is_closing
 
 ```lua
@@ -33,6 +35,8 @@ uv_handle|A handle to check.
 __Examples__
 
 none
+
+---
 
 ## close
 
@@ -53,6 +57,8 @@ __Examples__
 
 none
 
+---
+
 ## ref
 
 ```lua
@@ -70,6 +76,8 @@ uv_handle|A handle to ref.
 __Examples__
 
 none
+
+---
 
 ## unref
 
@@ -89,6 +97,8 @@ __Examples__
 
 none
 
+---
+
 ## has_ref
 
 ```lua
@@ -106,6 +116,8 @@ uv_handle|A handle to check.
 __Examples__
 
 none
+
+---
 
 ## send_buffer_size
 
@@ -131,6 +143,8 @@ __Examples__
 
 none
 
+---
+
 ## recv_buffer_size
 
 ```lua
@@ -154,6 +168,8 @@ buffer_size|A number to indicate the buffer size.
 __Examples__
 
 none
+
+---
 
 ## fileno
 

@@ -16,6 +16,8 @@ __Examples__
 local idle_handle = uv.new_idle()
 ```
 
+---
+
 ## idle_start
 
 ```lua
@@ -39,6 +41,8 @@ uv.idle_start( idle_handle, function()
 end )
 ```
 
+---
+
 ## idle_stop
 
 ```lua
@@ -59,6 +63,8 @@ __Examples__
 ```lua
 uv.idle_stop( idle_handle )
 ```
+
+---
 
 ### See also
 
